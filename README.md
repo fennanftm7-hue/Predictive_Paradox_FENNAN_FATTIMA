@@ -36,4 +36,4 @@ I chose these features as they showed considerable effect on the demand from the
 2.	temp / app_temp : higher temperatures show higher demands in power, showing a significant positive correlation in the heatmap. Apparent temperature is more relevant as it also factors in other features, such as humidity.
 3.	Urban population / GDP :  explains the long- term trends of the grid capacity over the decade long span.
 
-
+![Feature Importance Bar Graph](BarGraph.png)
